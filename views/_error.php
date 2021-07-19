@@ -1,0 +1,1 @@
+<h2 class="mt-3"><?php echo $exception->getCode() ?> - <?php echo $exception->getMessage() ?></h2>

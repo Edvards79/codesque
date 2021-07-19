@@ -1,2 +1,3 @@
 # codesque
+
 A programming blog

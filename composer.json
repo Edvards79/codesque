@@ -1,0 +1,12 @@
+{
+    "name": "edvards/myframework",
+    "description": "My custom framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
